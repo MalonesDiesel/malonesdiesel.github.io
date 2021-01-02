@@ -8,6 +8,5 @@ layout: service
 
 A car diagnostic test can determine if your vehicle has issues with its engine, exhaust, transmission, ignition coils, oil tank, throttle, and more.
 
-![Diagnostic Testing](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 
