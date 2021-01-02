@@ -2,7 +2,7 @@
 title: Home Page
 layout: home
 description: Malone's Diesel and Automotive Repair
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/illustrations/truckengine.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
