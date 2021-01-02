@@ -5,7 +5,7 @@ draft: false
 image: 'images/team/danny.svg'
 promoted: true
 jobtitle: 'Technician in Training'
-weight: 3
+weight: 4
 layout: team
 ---
 
