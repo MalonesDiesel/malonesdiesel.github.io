@@ -1,17 +1,32 @@
 [
   {
+    "title": "Local",
+    "description": "Born and raised in Shreveport-Bossier City, all of our mechanics live and play in S-BC. We are proud to serve this area and join the many local businesses that make our cities great.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+   {
+    "title": "Reliable",
+    "description": "WWe love what we do, and we treat each customer like family. We ensure the highest quality and trustworthy service for each person who walks through our door.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
     "title": "Affordable",
     "description": "We know how difficult and costly auto repairs can be, especially when you're not anticipating it. We work hard to keep our costs down so we can keep your costs as low as possible.",
     "image": "images/features/noun_branding_1885335.svg"
   },
+   {
+    "title": "Experienced",
+    "description": "Each of our mechanics has 15-25 years of hands-on experience working on a variety of engines. Well, except Danny, but he’s looking forward to assisting us with your vehicle.",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
   {
-    "title": "Reliable",
-    "description": "We have more than 50 + years of collective experience servicing and repairing vehicles. Each of our mechanics are specialized and we haven't found a job too big yet!",
+    "title": "Family Owned",
+    "description": "Stacy fulfilled a lifelong dream when he started Malone’s Diesel Repair in 2018. There’s always at least one of his children or dogs helping out on any given day. Stop by to say hello!",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Local",
-    "description": "Born and raised in Shreveport-Bossier City, all of our mechanics live and play in the S-BC. We are proud to serve this area and join the many local businesses that make our cities great.",
+    "title": "Responsive",
+    "description": "We know it can be stressful to drop off your vehicle for repairs. We are available by call or text anytime to answer your questions and ease your mind. ",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
