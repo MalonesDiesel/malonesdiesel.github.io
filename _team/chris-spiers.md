@@ -5,6 +5,6 @@ draft: false
 image: "images/team/chris.svg"
 jobtitle: "Auto Mechanic"
 promoted: true
-weight: 7
+weight: 3
 layout: team
 ---
