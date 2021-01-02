@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Meet The Crew
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Our team of qualified mechanics and staff can help your vehicle in multiple ways. 
