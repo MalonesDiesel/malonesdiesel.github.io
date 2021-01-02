@@ -2,6 +2,7 @@
 title: Contact
 layout: contact
 bodyClass: page-contact
+description: 'We are grateful for the opportunity to earn your business. We look forward to serving you.'
 
 ---
 
