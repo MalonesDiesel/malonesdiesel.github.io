@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# We service all vehicles and guarantee you'll be satisfied.
+# We know all types of vehicles.
 
 Check out our service list or call us to discuss your needs today.
