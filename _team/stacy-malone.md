@@ -9,4 +9,3 @@ weight: 1
 layout: team
 ---
 
-Specialization: Ford, GMC, Chevrolet
