@@ -10,3 +10,6 @@ intro_image_hide_on_mobile: true
 # 50 + years of collective service and repair experience, just for you.
 
 Our highly trained mechanics are speicalized and can work on a wide range of automotive brands. We haaven't found a job too big or small yet!
+<br />
+<br />
+Diesel ● Trucks ● Cars ● Fleets
