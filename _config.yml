@@ -9,7 +9,7 @@ homepage:
 logo:
   mobile: "images/logo/logotransparent.webp"
   desktop: "images/logo/logotransparent.webp"
-  desktop_height: "50px"
+  desktop_height: "60px"
 footer:
   copyright_text: 'Malone Diesel 2021 ©'
 
