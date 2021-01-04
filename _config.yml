@@ -7,9 +7,9 @@ google_analytics_id: ""
 homepage:
   show_call_box: true
 logo:
-  mobile: "images/logo/companylogo.webp"
-  desktop: "images/logo/companylogo.webp"
-  desktop_height: "36px"
+  mobile: "images/logo/logotransparent.webp"
+  desktop: "images/logo/logotransparent.webp"
+  desktop_height: "50px"
 footer:
   copyright_text: 'Malone Diesel 2021 ©'
 
