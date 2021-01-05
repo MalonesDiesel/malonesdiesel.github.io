@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Malone's Diesel Repair'
+title: 'Malones Diesel Repair'
 
 google_analytics_id: ""
 homepage:
@@ -11,10 +11,10 @@ logo:
   desktop: "images/logo/logotransparent.webp"
   desktop_height: "60px"
 footer:
-  copyright_text: 'Malone's Diesel 2021 ©'
+  copyright_text: 'Malones Diesel 2021 ©'
 
 seo:
-  meta_og_title: "Malone's Diesel Repair"
+  meta_og_title: "Malones Diesel Repair"
   meta_og_type: "website"
   meta_og_description: "Friendly and Fast Diesel & Automotive Repair in Shreveport-Bossier Area"
 
