@@ -2,12 +2,12 @@
   <div class="call-box-top">
     {% if site.data.contact.call %}
         <div class="call-phone"><strong>Call: </strong>
-          <a href="tel:{{ .site.Data.contact.call | remove: "(" | remove: ")" | remove: "." | remove: " " }}">{{ site.data.contact.call }}</a>       
+          <a href="tel:{{ .site.data.contact.call | remove: "(" | remove: ")" | remove: "." | remove: " " }}">{{ site.data.contact.call }}</a>       
     </div>
     {% endif %}
     {% if site.data.contact.text %}
         <div class="call-phone"><strong>Text: </strong> 
-           <a href="sms:{{ .site.Data.contact.text | remove: "(" | remove: ")" | remove: "." | remove: " " }}">
+           <a href="sms:{{ .site.data.contact.text | remove: "(" | remove: ")" | remove: "." | remove: " " }}">
           {{ site.data.contact.text }} 
           </a>
     </div>
