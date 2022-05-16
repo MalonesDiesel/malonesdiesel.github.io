@@ -8,9 +8,10 @@ description: 'We are grateful for the opportunity to earn your business. We look
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
-| Tuesday   | 8:00am - 5:00pm |
-| Wednesday | 8:00am - 5:00pm |
-| Thursday  | 8:00am - 5:00pm |
-| Friday    | 8:00am - 5:00pm |
+| Monday    | 8:00 AM - 5:00 PM |
+| Tuesday   | 8:00 AM - 5:00 PM |
+| Wednesday | 8:00 AM - 5:00 PM |
+| Thursday  | 8:00 AM - 5:00 PM |
+| Friday    | 8:00 AM - 5:00 PM |
 | Saturday  | Closed          |
 | Saturday  | Closed          |
