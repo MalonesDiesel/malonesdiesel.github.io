@@ -10,4 +10,4 @@ intro_image_hide_on_mobile: false
 
 Check out our service list or call us to discuss your needs today.
 
-$\times$ Parts for vehicles older than 1996 may have limited availability.
+\* Parts for vehicles older than 1996 may have limited availability.
