@@ -1,10 +1,18 @@
 <div class="call">
   <div class="call-box-top">
     {% if site.data.contact.call %}
-        <div class="call-phone"><strong>Call: </strong> {{ site.data.contact.call }} </div>
+        <div class="call-phone"><strong>Call: </strong> 
+           <a href="tel:{{ .site.Data.contact.call }}">
+          {{ site.data.contact.call }} 
+          </a>
+    </div>
     {% endif %}
     {% if site.data.contact.text %}
-        <div class="call-phone"><strong>Text: </strong> {{ site.data.contact.text }} </div>
+        <div class="call-phone"><strong>Text: </strong> 
+           <a href="sms:{{ .site.Data.contact.text }}">
+          {{ site.data.contact.text }} 
+          </a>
+    </div>
     {% endif %}
     {% if site.data.contact.email %}
     <div class="call-email"><strong>Email: </strong>
