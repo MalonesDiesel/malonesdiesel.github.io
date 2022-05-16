@@ -1,8 +1,10 @@
 <div class="call">
   <div class="call-box-top">
     {% if site.data.contact.call %}
-        <div class="call-phone"><strong>Call: </strong>            
-          <a href="tel:1-{{ site.Data.contact.call | remove: "(" | remove: ")" | remove: "." | replace: " ", "-" }}">{{ site.data.contact.call }}</a>
+        <div class="call-phone"><strong>Call: </strong>       
+           <a href="tel:1-{{ .site.Data.contact.call }}">
+          {{ site.data.contact.call }}
+          </a>
     </div>
     {% endif %}
     {% if site.data.contact.text %}
